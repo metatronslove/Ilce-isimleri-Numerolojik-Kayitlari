@@ -1,0 +1,923 @@
+Kayıt, Şehir No, Şehir, İlçe No, İlçe,Türk Alfabe Sıralaması
+1,1,Adana,1,Aladağ,32 ► 5
+2,1,Adana,2,Ceyhan,65 ► 11 ► 2
+3,1,Adana,3,Çukurova,135 ► 9
+4,1,Adana,4,Feke,33 ► 6
+5,1,Adana,5,İmamoğlu,112 ► 4
+6,1,Adana,6,Karaisalı,97 ► 16 ► 7
+7,1,Adana,7,Karataş,85 ► 13 ► 4
+8,1,Adana,8,Kozan,79 ► 16 ► 7
+9,1,Adana,9,Pozantı,120 ► 3
+10,1,Adana,10,Saimbeyli,112 ► 4
+11,1,Adana,11,Sarıçam,76 ► 13 ► 4
+12,1,Adana,12,Seyhan,84 ► 12 ► 3
+13,1,Adana,13,Tufanbeyli,136 ► 10 ► 1
+14,1,Adana,14,Yumurtalık,180 ► 9
+15,1,Adana,15,Yüreğir,122 ► 5
+16,2,Adıyaman,1,Adıyaman,80 ► 8
+17,2,Adıyaman,2,Çelikhan,78 ► 15 ► 6
+18,2,Adıyaman,3,Gerger,70 ► 7
+19,2,Adıyaman,4,Gölbaşı,79 ► 16 ► 7
+20,2,Adıyaman,5,Kâhta,Â (1 karakter yöntemlerde tanımsız)
+21,2,Adıyaman,6,Samsat,86 ► 14 ► 5
+22,2,Adıyaman,7,Sincik,78 ► 15 ► 6
+23,2,Adıyaman,8,Tut,73 ► 10 ► 1
+24,3,Afyonkarahisar,1,Afyonkarahisar,173 ► 11 ► 2
+25,3,Afyonkarahisar,2,Bayat,56 ► 11 ► 2
+26,3,Afyonkarahisar,3,Bolvadin,96 ► 15 ► 6
+27,3,Afyonkarahisar,4,Çay,33 ► 6
+28,3,Afyonkarahisar,5,Çobanlar,79 ► 16 ► 7
+29,3,Afyonkarahisar,6,Dazkırı,92 ► 11 ► 2
+30,3,Afyonkarahisar,7,Dinar,55 ► 10 ► 1
+31,3,Afyonkarahisar,8,Emirdağ,69 ► 15 ► 6
+32,3,Afyonkarahisar,9,Evciler,89 ► 17 ► 8
+33,3,Afyonkarahisar,10,Hocalar,69 ► 15 ► 6
+34,3,Afyonkarahisar,11,İhsaniye,107 ► 8
+35,3,Afyonkarahisar,12,İscehisar,108 ► 9
+36,3,Afyonkarahisar,13,Kızılören,143 ► 8
+37,3,Afyonkarahisar,14,Sandıklı,96 ► 15 ► 6
+38,3,Afyonkarahisar,15,Sinanpaşa,113 ► 5
+39,3,Afyonkarahisar,16,Sultandağı,130 ► 4
+40,3,Afyonkarahisar,17,Şuhut,107 ► 8
+41,4,Ağrı,1,Ağrı,42 ► 6
+42,4,Ağrı,2,Doğubayazıt,153 ► 9
+43,4,Ağrı,3,Eleşkirt,120 ► 3
+44,4,Ağrı,4,Hamur,73 ► 10 ► 1
+45,4,Ağrı,5,Patnos,102 ► 3
+46,4,Ağrı,6,Taşlıçay,107 ► 8
+47,4,Ağrı,7,Tutak,88 ► 16 ► 7
+48,5,Aksaray,1,Aksaray,88 ► 16 ► 7
+49,5,Aksaray,2,Eskil,68 ► 14 ► 5
+50,5,Aksaray,3,Gülağaç,64 ► 10 ► 1
+51,5,Aksaray,4,Güzelyurt,182 ► 11 ► 2
+52,5,Aksaray,5,Ortaköy,125 ► 8
+53,5,Aksaray,6,Sarıyahşi,128 ► 11 ► 2
+54,5,Aksaray,7,Sultanhanı,143 ► 8
+55,6,Amasya,1,Amasya,69 ► 15 ► 6
+56,6,Amasya,2,Gümüşhacıköy,185 ► 14 ► 5
+57,6,Amasya,3,Hamamözü,118 ► 10 ► 1
+58,6,Amasya,4,Merzifon,125 ► 8
+59,6,Amasya,5,Suluova,133 ► 7
+60,6,Amasya,6,Taşova,94 ► 13 ► 4
+61,7,Ankara,1,Akyurt,113 ► 5
+62,7,Ankara,2,Altındağ,83 ► 11 ► 2
+63,7,Ankara,3,Ayaş,53 ► 8
+64,7,Ankara,4,Balâ,Â (1 karakter yöntemlerde tanımsız)
+65,7,Ankara,5,Beypazarı,119 ► 11 ► 2
+66,7,Ankara,6,Çamlıdere,85 ► 13 ► 4
+67,7,Ankara,7,Çankaya,66 ► 12 ► 3
+68,7,Ankara,8,Çubuk,70 ► 7
+69,7,Ankara,9,Elmadağ,53 ► 8
+70,7,Ankara,10,Etimesgut,142 ► 7
+71,7,Ankara,11,Evren,77 ► 14 ► 5
+72,7,Ankara,12,Gölbaşı,79 ► 16 ► 7
+73,7,Ankara,13,Güdül,80 ► 8
+74,7,Ankara,14,Haymana,74 ► 11 ► 2
+75,7,Ankara,15,Kalecik,64 ► 10 ► 1
+76,7,Ankara,16,Kahramankazan,143 ► 8
+77,7,Ankara,17,Keçiören,98 ► 17 ► 8
+78,7,Ankara,18,Kızılcahamam,128 ► 11 ► 2
+79,7,Ankara,19,Mamak,48 ► 12 ► 3
+80,7,Ankara,20,Nallıhan,87 ► 15 ► 6
+81,7,Ankara,21,Polatlı,104 ► 5
+82,7,Ankara,22,Pursaklar,140 ► 5
+83,7,Ankara,23,Sincan,71 ► 8
+84,7,Ankara,24,Şereflikoçhisar,190 ► 10 ► 1
+85,7,Ankara,25,Yenimahalle,126 ► 9
+86,8,Antalya,1,Akseki,68 ► 14 ► 5
+87,8,Antalya,2,Aksu,62 ► 8
+88,8,Antalya,3,Alanya,63 ► 9
+89,8,Antalya,4,Demre,54 ► 9
+90,8,Antalya,5,Döşemealtı,126 ► 9
+91,8,Antalya,6,Elmalı,64 ► 10 ► 1
+92,8,Antalya,7,Finike,66 ► 12 ► 3
+93,8,Antalya,8,Gazipaşa,94 ► 13 ► 4
+94,8,Antalya,9,Gündoğmuş,147 ► 12 ► 3
+95,8,Antalya,10,İbradı,52 ► 7
+96,8,Antalya,11,Kaş,38 ► 11 ► 2
+97,8,Antalya,12,Kemer,63 ► 9
+98,8,Antalya,13,Kepez,75 ► 12 ► 3
+99,8,Antalya,14,Konyaaltı,129 ► 12 ► 3
+100,8,Antalya,15,Korkuteli,148 ► 13 ► 4
+101,8,Antalya,16,Kumluca,99 ► 18 ► 9
+102,8,Antalya,17,Manavgat,95 ► 14 ► 5
+103,8,Antalya,18,Muratpaşa,132 ► 6
+104,8,Antalya,19,Serik,74 ► 11 ► 2
+105,9,Ardahan,1,Ardahan,56 ► 11 ► 2
+106,9,Ardahan,2,Damal,38 ► 11 ► 2
+107,9,Ardahan,3,Göle,48 ► 12 ► 3
+108,9,Ardahan,4,Hanak,43 ► 7
+109,9,Ardahan,5,Posof,85 ► 13 ► 4
+110,10,Artvin,1,Artvin,101 ► 2
+111,10,Artvin,2,Arhavi,71 ► 8
+112,10,Artvin,3,Borçka,60 ► 6
+113,10,Artvin,4,Hopa,49 ► 13 ► 4
+114,10,Artvin,5,Kemalpaşa,97 ► 16 ► 7
+115,10,Artvin,6,Murgul,110 ► 2
+116,10,Artvin,7,Şavşat,99 ► 18 ► 9
+117,10,Artvin,8,Yusufeli,139 ► 13 ► 4
+118,11,Aydın,1,Bozdoğan,99 ► 18 ► 9
+119,11,Aydın,2,Buharkent,120 ► 3
+120,11,Aydın,3,Çine,38 ► 11 ► 2
+121,11,Aydın,4,Didim,48 ► 12 ► 3
+122,11,Aydın,5,Efeler,61 ► 7
+123,11,Aydın,6,Germencik,102 ► 3
+124,11,Aydın,7,İncirliova,136 ► 10 ► 1
+125,11,Aydın,8,Karacasu,88 ► 16 ► 7
+126,11,Aydın,9,Karpuzlu,150 ► 6
+127,11,Aydın,10,Koçarlı,84 ► 12 ► 3
+128,11,Aydın,11,Köşk,70 ► 7
+129,11,Aydın,12,Kuşadası,102 ► 3
+130,11,Aydın,13,Kuyucak,110 ► 2
+131,11,Aydın,14,Nazilli,99 ► 18 ► 9
+132,11,Aydın,15,Söke,61 ► 7
+133,11,Aydın,16,Sultanhisar,169 ► 16 ► 7
+134,11,Aydın,17,Yenipazar,134 ► 8
+135,12,Balıkesir,1,Altıeylül,141 ► 6
+136,12,Balıkesir,2,Ayvalık,97 ► 16 ► 7
+137,12,Balıkesir,3,Balya,47 ► 11 ► 2
+138,12,Balıkesir,4,Bandırma,74 ► 11 ► 2
+139,12,Balıkesir,5,Bigadiç,42 ► 6
+140,12,Balıkesir,6,Burhaniye,121 ► 4
+141,12,Balıkesir,7,Dursunbey,151 ► 7
+142,12,Balıkesir,8,Edremit,89 ► 17 ► 8
+143,12,Balıkesir,9,Erdek,52 ► 7
+144,12,Balıkesir,10,Gömeç,53 ► 8
+145,12,Balıkesir,11,Gönen,67 ► 13 ► 4
+146,12,Balıkesir,12,Havran,77 ► 14 ► 5
+147,12,Balıkesir,13,İvrindi,104 ► 5
+148,12,Balıkesir,14,Karesi,75 ► 12 ► 3
+149,12,Balıkesir,15,Kepsut,111 ► 3
+150,12,Balıkesir,16,Manyas,85 ► 13 ► 4
+151,12,Balıkesir,17,Marmara,77 ► 14 ► 5
+152,12,Balıkesir,18,Savaştepe,130 ► 4
+153,12,Balıkesir,19,Sındırgı,106 ► 7
+154,12,Balıkesir,20,Susurluk,169 ► 16 ► 7
+155,13,Bartın,1,Bartın,76 ► 13 ► 4
+156,13,Bartın,2,Kurucaşile,144 ► 9
+157,13,Bartın,3,Ulus,87 ► 15 ► 6
+158,14,Batman,1,Batman,61 ► 7
+159,14,Batman,2,Gercüş,87 ► 15 ► 6
+160,14,Batman,3,Hasankeyf,106 ► 7
+161,14,Batman,4,Kozluk,115 ► 7
+162,14,Batman,5,Sason,80 ► 8
+163,15,Bayburt,1,Bayburt,103 ► 4
+164,15,Bayburt,2,Demirözü,133 ► 7
+165,16,Bilecik,1,Bilecik,62 ► 8
+166,16,Bilecik,2,Gölpazarı,125 ► 8
+167,16,Bilecik,3,İnhisar,94 ► 13 ► 4
+168,16,Bilecik,4,Osmaneli,106 ► 7
+169,16,Bilecik,5,Pazaryeri,138 ► 12 ► 3
+170,16,Bilecik,6,Söğüt,100 ► 1
+171,16,Bilecik,7,Yenipazar,134 ► 8
+172,17,Bingöl,1,Bingöl,72 ► 9
+173,17,Bingöl,2,Genç,35 ► 8
+174,17,Bingöl,3,Karlıova,108 ► 9
+175,17,Bingöl,4,Kiğı,45 ► 9
+176,17,Bingöl,5,Solhan,83 ► 11 ► 2
+177,17,Bingöl,6,Yayladere,111 ► 3
+178,17,Bingöl,7,Yedisu,97 ► 16 ► 7
+179,18,Bitlis,1,Bitlis,85 ► 13 ► 4
+180,18,Bitlis,2,Ahlat,51 ► 6
+181,18,Bitlis,3,Güroymak,132 ► 6
+182,18,Bitlis,4,Hizan,68 ► 14 ► 5
+183,18,Bitlis,5,Mutki,90 ► 9
+184,18,Bitlis,6,Tatvan,94 ► 13 ► 4
+185,19,Bolu,1,Bolu,60 ► 6
+186,19,Bolu,2,Gerede,52 ► 7
+187,19,Bolu,3,Göynük,112 ► 4
+188,19,Bolu,4,Kıbrıscık,109 ► 10 ► 1
+189,19,Bolu,5,Mengen,70 ► 7
+190,19,Bolu,6,Mudurnu,134 ► 8
+191,19,Bolu,7,Seben,53 ► 8
+192,19,Bolu,8,Yeniçağa,77 ► 14 ► 5
+193,20,Burdur,1,Burdur,99 ► 18 ► 9
+194,20,Burdur,2,Altınyayla,141 ► 6
+195,20,Burdur,3,Bucak,45 ► 9
+196,20,Burdur,4,Çavdır,69 ► 15 ► 6
+197,20,Burdur,5,Çeltikçi,89 ► 17 ► 8
+198,20,Burdur,6,Gölhisar,107 ► 8
+199,20,Burdur,7,Karamanlı,97 ► 16 ► 7
+200,20,Burdur,8,Kemer,63 ► 9
+201,20,Burdur,9,Tefenni,88 ► 16 ► 7
+202,20,Burdur,10,Yeşilova,129 ► 12 ► 3
+203,21,Bursa,1,Büyükorhan,163 ► 10 ► 1
+204,21,Bursa,2,Gemlik,70 ► 7
+205,21,Bursa,3,Gürsu,102 ► 3
+206,21,Bursa,4,Harmancık,94 ► 13 ► 4
+207,21,Bursa,5,İnegöl,77 ► 14 ► 5
+208,21,Bursa,6,İznik,83 ► 11 ► 2
+209,21,Bursa,7,Karacabey,77 ► 14 ► 5
+210,21,Bursa,8,Keles,63 ► 9
+211,21,Bursa,9,Kestel,87 ► 15 ► 6
+212,21,Bursa,10,Mudanya,93 ► 12 ► 3
+213,21,Bursa,11,Mustafakemalpaşa,193 ► 13 ► 4
+214,21,Bursa,12,Nilüfer,103 ► 4
+215,21,Bursa,13,Orhaneli,99 ► 18 ► 9
+216,21,Bursa,14,Orhangazi,116 ► 8
+217,21,Bursa,15,Osmangazi,123 ► 6
+218,21,Bursa,16,Yenişehir,133 ► 7
+219,21,Bursa,17,Yıldırım,118 ► 10 ► 1
+220,22,Çanakkale,1,Çanakkale,73 ► 10 ► 1
+221,22,Çanakkale,2,Bayramiç,84 ► 12 ► 3
+222,22,Çanakkale,3,Biga,22 ► 4
+223,22,Çanakkale,4,Bozcaada,60 ► 6
+224,22,Çanakkale,5,Çan,22 ► 4
+225,22,Çanakkale,6,Eceabat,43 ► 7
+226,22,Çanakkale,7,Ezine,69 ► 15 ► 6
+227,22,Çanakkale,8,Gelibolu,100 ► 1
+228,22,Çanakkale,9,Gökçeada,58 ► 13 ► 4
+229,22,Çanakkale,10,Lapseki,89 ► 17 ► 8
+230,22,Çanakkale,11,Yenice,71 ► 8
+231,23,Çankırı,1,Çankırı,79 ► 16 ► 7
+232,23,Çankırı,2,Bayramören,132 ► 6
+233,23,Çankırı,3,Çerkeş,74 ► 11 ► 2
+234,23,Çankırı,4,Eldivan,82 ► 10 ► 1
+235,23,Çankırı,5,Ilgaz,64 ► 10 ► 1
+236,23,Çankırı,6,Kızılırmak,143 ► 8
+237,23,Çankırı,7,Korgun,103 ► 4
+238,23,Çankırı,8,Kurşunlu,165 ► 12 ► 3
+239,23,Çankırı,9,Orta,64 ► 10 ► 1
+240,23,Çankırı,10,Şabanözü,118 ► 10 ► 1
+241,23,Çankırı,11,Yapraklı,111 ► 3
+242,24,Çorum,1,Çorum,84 ► 12 ► 3
+243,24,Çorum,2,Bayat,56 ► 11 ► 2
+244,24,Çorum,3,Boğazkale,95 ► 14 ► 5
+245,24,Çorum,4,Dodurga,83 ► 11 ► 2
+246,24,Çorum,5,İskilip,105 ► 6
+247,24,Çorum,6,Kargı,55 ► 10 ► 1
+248,24,Çorum,7,Laçin,48 ► 12 ► 3
+249,24,Çorum,8,Mecitözü,134 ► 8
+250,24,Çorum,9,Oğuzlar,118 ► 10 ► 1
+251,24,Çorum,10,Ortaköy,125 ► 8
+252,24,Çorum,11,Osmancık,102 ► 3
+253,24,Çorum,12,Sungurlu,158 ► 14 ► 5
+254,24,Çorum,13,Uğurludağ,135 ► 9
+255,25,Denizli,1,Acıpayam,81 ► 9
+256,25,Denizli,2,Babadağ,21 ► 3
+257,25,Denizli,3,Baklan,50 ► 5
+258,25,Denizli,4,Bekilli,74 ► 11 ► 2
+259,25,Denizli,5,Beyağaç,51 ► 6
+260,25,Denizli,6,Bozkurt,133 ► 7
+261,25,Denizli,7,Buldan,65 ► 11 ► 2
+262,25,Denizli,8,Çal,20 ► 2
+263,25,Denizli,9,Çameli,53 ► 8
+264,25,Denizli,10,Çardak,46 ► 10 ► 1
+265,25,Denizli,11,Çivril,89 ► 17 ► 8
+266,25,Denizli,12,Güney,85 ► 13 ► 4
+267,25,Denizli,13,Honaz,75 ► 12 ► 3
+268,25,Denizli,14,Kale,36 ► 9
+269,25,Denizli,15,Merkezefendi,144 ► 9
+270,25,Denizli,16,Pamukkale,112 ► 4
+271,25,Denizli,17,Sarayköy,134 ► 8
+272,25,Denizli,18,Serinhisar,142 ► 7
+273,25,Denizli,19,Tavas,75 ► 12 ► 3
+274,26,Diyarbakır,1,Bağlar,49 ► 13 ► 4
+275,26,Diyarbakır,2,Bismil,77 ► 14 ► 5
+276,26,Diyarbakır,3,Çermik,72 ► 9
+277,26,Diyarbakır,4,Çınar,54 ► 9
+278,26,Diyarbakır,5,Çüngüş,104 ► 5
+279,26,Diyarbakır,6,Dicle,40 ► 4
+280,26,Diyarbakır,7,Eğil,41 ► 5
+281,26,Diyarbakır,8,Ergani,64 ► 10 ► 1
+282,26,Diyarbakır,9,Hani,39 ► 12 ► 3
+283,26,Diyarbakır,10,Hazro,79 ► 16 ► 7
+284,26,Diyarbakır,11,Kayapınar,114 ► 6
+285,26,Diyarbakır,12,Kocaköy,97 ► 16 ► 7
+286,26,Diyarbakır,13,Kulp,74 ► 11 ► 2
+287,26,Diyarbakır,14,Lice,35 ► 8
+288,26,Diyarbakır,15,Silvan,93 ► 12 ► 3
+289,26,Diyarbakır,16,Sur,68 ► 14 ► 5
+290,26,Diyarbakır,17,Yenişehir,133 ► 7
+291,27,Düzce,1,Düzce,69 ► 15 ► 6
+292,27,Düzce,2,Cumayeri,111 ► 3
+293,27,Düzce,3,Çilimli,83 ► 11 ► 2
+294,27,Düzce,4,Gölyaka,86 ► 14 ► 5
+295,27,Düzce,5,Gümüşova,145 ► 10 ► 1
+296,27,Düzce,6,Kaynaşlı,110 ► 2
+297,27,Düzce,7,Yığılca,78 ► 15 ► 6
+298,28,Edirne,1,Edirne,66 ► 12 ► 3
+299,28,Edirne,2,Havsa,61 ► 7
+300,28,Edirne,3,İpsala,71 ► 8
+301,28,Edirne,4,Keşan,61 ► 7
+302,28,Edirne,5,Lalapaşa,77 ► 14 ► 5
+303,28,Edirne,6,Meriç,58 ► 13 ► 4
+304,28,Edirne,7,Süloğlu,130 ► 4
+305,28,Edirne,8,Uzunköprü,196 ► 16 ► 7
+306,29,Elâzığ,1,Elazığ,71 ► 8
+307,29,Elâzığ,2,Alacakaya,65 ► 11 ► 2
+308,29,Elâzığ,3,Arıcak,51 ► 6
+309,29,Elâzığ,4,Baskil,65 ► 11 ► 2
+310,29,Elâzığ,5,Karakoçan,91 ► 10 ► 1
+311,29,Elâzığ,6,Keban,40 ► 4
+312,29,Elâzığ,7,Kovancılar,128 ► 11 ► 2
+313,29,Elâzığ,8,Maden,45 ► 9
+314,29,Elâzığ,9,Palu,61 ► 7
+315,29,Elâzığ,10,Sivrice,101 ► 2
+316,30,Erzincan,1,Erzincan,105 ► 6
+317,30,Erzincan,2,İliç,42 ► 6
+318,30,Erzincan,3,Kemah,47 ► 11 ► 2
+319,30,Erzincan,4,Kemaliye,97 ► 16 ► 7
+320,30,Erzincan,5,Otlukbeli,130 ► 4
+321,30,Erzincan,6,Refahiye,90 ► 9
+322,30,Erzincan,7,Tercan,72 ► 9
+323,30,Erzincan,8,Üzümlü,138 ► 12 ► 3
+324,31,Erzurum,1,Aşkale,60 ► 6
+325,31,Erzurum,2,Aziziye,115 ► 7
+326,31,Erzurum,3,Çat,29 ► 11 ► 2
+327,31,Erzurum,4,Hınıs,71 ► 8
+328,31,Erzurum,5,Horasan,90 ► 9
+329,31,Erzurum,6,İspir,86 ► 14 ► 5
+330,31,Erzurum,7,Karaçoban,79 ► 16 ► 7
+331,31,Erzurum,8,Karayazı,106 ► 7
+332,31,Erzurum,9,Köprüköy,161 ► 8
+333,31,Erzurum,10,Narman,73 ► 10 ► 1
+334,31,Erzurum,11,Oltu,82 ► 10 ► 1
+335,31,Erzurum,12,Olur,79 ► 16 ► 7
+336,31,Erzurum,13,Palandöken,115 ► 7
+337,31,Erzurum,14,Pasinler,113 ► 5
+338,31,Erzurum,15,Pazaryolu,158 ► 14 ► 5
+339,31,Erzurum,16,Şenkaya,90 ► 9
+340,31,Erzurum,17,Tekman,78 ► 15 ► 6
+341,31,Erzurum,18,Tortum,128 ► 11 ► 2
+342,31,Erzurum,19,Uzundere,134 ► 8
+343,31,Erzurum,20,Yakutiye,137 ► 11 ► 2
+344,32,Eskişehir,1,Alpu,61 ► 7
+345,32,Eskişehir,2,Beylikova,122 ► 5
+346,32,Eskişehir,3,Çifteler,94 ► 13 ► 4
+347,32,Eskişehir,4,Günyüzü,160 ► 7
+348,32,Eskişehir,5,Han,28 ► 10 ► 1
+349,32,Eskişehir,6,İnönü,91 ► 10 ► 1
+350,32,Eskişehir,7,Mahmudiye,118 ► 10 ► 1
+351,32,Eskişehir,8,Mihalgazi,102 ► 3
+352,32,Eskişehir,9,Mihalıççık,97 ► 16 ► 7
+353,32,Eskişehir,10,Odunpazarı,148 ► 13 ► 4
+354,32,Eskişehir,11,Sarıcakaya,103 ► 4
+355,32,Eskişehir,12,Seyitgazi,140 ► 5
+356,32,Eskişehir,13,Sivrihisar,157 ► 13 ► 4
+357,32,Eskişehir,14,Tepebaşı,93 ► 12 ► 3
+358,33,Gaziantep,1,Araban,43 ► 7
+359,33,Gaziantep,2,İslahiye,105 ► 6
+360,33,Gaziantep,3,Karkamış,101 ► 2
+361,33,Gaziantep,4,Nizip,88 ► 16 ► 7
+362,33,Gaziantep,5,Nurdağı,89 ► 17 ► 8
+363,33,Gaziantep,6,Oğuzeli,113 ► 5
+364,33,Gaziantep,7,Şahinbey,98 ► 17 ► 8
+365,33,Gaziantep,8,Şehitkamil,131 ► 5
+366,33,Gaziantep,9,Yavuzeli,142 ► 7
+367,34,Giresun,1,Giresun,110 ► 2
+368,34,Giresun,2,Bulancak,78 ► 15 ► 6
+369,34,Giresun,3,Çamoluk,93 ► 12 ► 3
+370,34,Giresun,4,Çanakçı,52 ► 7
+371,34,Giresun,5,Dereli,64 ► 10 ► 1
+372,34,Giresun,6,Doğankent,111 ► 3
+373,34,Giresun,7,Espiye,93 ► 12 ► 3
+374,34,Giresun,8,Eynesil,105 ► 6
+375,34,Giresun,9,Görele,75 ► 12 ► 3
+376,34,Giresun,10,Güce,43 ► 7
+377,34,Giresun,11,Keşap,64 ► 10 ► 1
+378,34,Giresun,12,Piraziz,122 ► 5
+379,34,Giresun,13,Şebinkarahisar,161 ► 8
+380,34,Giresun,14,Tirebolu,122 ► 5
+381,34,Giresun,15,Yağlıdere,102 ► 3
+382,35,Gümüşhane,1,Gümüşhane,133 ► 7
+383,35,Gümüşhane,2,Köse,61 ► 7
+384,35,Gümüşhane,3,Kürtün,128 ► 11 ► 2
+385,35,Gümüşhane,4,Şiran,73 ► 10 ► 1
+386,35,Gümüşhane,5,Torul,103 ► 4
+387,36,Hakkâri,1,Hakkâri,Â (1 karakter yöntemlerde tanımsız)
+388,36,Hakkâri,2,Derecik,66 ► 12 ► 3
+389,36,Hakkâri,3,Şemdinli,104 ► 5
+390,36,Hakkâri,4,Yüksekova,156 ► 12 ► 3
+391,37,Hatay,1,Altınözü,142 ► 7
+392,37,Hatay,2,Antakya,86 ► 14 ► 5
+393,37,Hatay,3,Arsuz,98 ► 17 ► 8
+394,37,Hatay,4,Belen,46 ► 10 ► 1
+395,37,Hatay,5,Defne,41 ► 5
+396,37,Hatay,6,Dörtyol,130 ► 4
+397,37,Hatay,7,Erzin,84 ► 12 ► 3
+398,37,Hatay,8,Hassa,56 ► 11 ► 2
+399,37,Hatay,9,İskenderun,145 ► 10 ► 1
+400,37,Hatay,10,Kırıkhan,99 ► 18 ► 9
+401,37,Hatay,11,Kumlu,95 ► 14 ► 5
+402,37,Hatay,12,Payas,72 ► 9
+403,37,Hatay,13,Reyhanlı,109 ► 10 ► 1
+404,37,Hatay,14,Samandağ,72 ► 9
+405,37,Hatay,15,Yayladağı,99 ► 18 ► 9
+406,38,Iğdır,1,Iğdır,57 ► 12 ► 3
+407,38,Iğdır,2,Karakoyunlu,179 ► 17 ► 8
+408,38,Iğdır,3,Tuzluca,122 ► 5
+409,39,Isparta,1,Isparta,100 ► 1
+410,39,Isparta,2,Atabey,62 ► 8
+411,39,Isparta,3,Eğirdir,84 ► 12 ► 3
+412,39,Isparta,4,Gelendost,121 ► 4
+413,39,Isparta,5,Gönen,67 ► 13 ► 4
+414,39,Isparta,6,Keçiborlu,116 ► 8
+415,39,Isparta,7,Senirkent,138 ► 12 ► 3
+416,39,Isparta,8,Sütçüler,144 ► 9
+417,39,Isparta,9,Şarkikaraağaç,122 ► 5
+418,39,Isparta,10,Uluborlu,146 ► 11 ► 2
+419,39,Isparta,11,Yalvaç,76 ► 13 ► 4
+420,39,Isparta,12,Yenişarbademli,163 ► 10 ► 1
+421,40,İstanbul,1,Adalar,44 ► 8
+422,40,İstanbul,2,Arnavutköy,177 ► 15 ► 6
+423,40,İstanbul,3,Ataşehir,97 ► 16 ► 7
+424,40,İstanbul,4,Avcılar,79 ► 16 ► 7
+425,40,İstanbul,5,Bağcılar,63 ► 9
+426,40,İstanbul,6,Bahçelievler,124 ► 7
+427,40,İstanbul,7,Bakırköy,110 ► 2
+428,40,İstanbul,8,Başakşehir,112 ► 4
+429,40,İstanbul,9,Bayrampaşa,114 ► 6
+430,40,İstanbul,10,Beşiktaş,104 ► 5
+431,40,İstanbul,11,Beykoz,97 ► 16 ► 7
+432,40,İstanbul,12,Beylikdüzü,162 ► 9
+433,40,İstanbul,13,Beyoğlu,103 ► 4
+434,40,İstanbul,14,Büyükçekmece,151 ► 7
+435,40,İstanbul,15,Çatalca,49 ► 13 ► 4
+436,40,İstanbul,16,Çekmeköy,107 ► 8
+437,40,İstanbul,17,Esenler,93 ► 12 ► 3
+438,40,İstanbul,18,Esenyurt,149 ► 14 ► 5
+439,40,İstanbul,19,Eyüpsultan,184 ► 13 ► 4
+440,40,İstanbul,20,Fatih,53 ► 8
+441,40,İstanbul,21,Gaziosmanpaşa,168 ► 15 ► 6
+442,40,İstanbul,22,Güngören,122 ► 5
+443,40,İstanbul,23,Kadıköy,92 ► 11 ► 2
+444,40,İstanbul,24,Kâğıthane,Â (1 karakter yöntemlerde tanımsız)
+445,40,İstanbul,25,Kartal,76 ► 13 ► 4
+446,40,İstanbul,26,Küçükçekmece,139 ► 13 ► 4
+447,40,İstanbul,27,Maltepe,88 ► 16 ► 7
+448,40,İstanbul,28,Pendik,73 ► 10 ► 1
+449,40,İstanbul,29,Sancaktepe,114 ► 6
+450,40,İstanbul,30,Sarıyer,110 ► 2
+451,40,İstanbul,31,Silivri,118 ► 10 ► 1
+452,40,İstanbul,32,Sultanbeyli,166 ► 13 ► 4
+453,40,İstanbul,33,Sultangazi,153 ► 9
+454,40,İstanbul,34,Şile,55 ► 10 ► 1
+455,40,İstanbul,35,Şişli,83 ► 11 ► 2
+456,40,İstanbul,36,Tuzla,94 ► 13 ► 4
+457,40,İstanbul,37,Ümraniye,126 ► 9
+458,40,İstanbul,38,Üsküdar,115 ► 7
+459,40,İstanbul,39,Zeytinburnu,205 ► 7
+460,41,İzmir,1,Aliağa,38 ► 11 ► 2
+461,41,İzmir,2,Balçova,68 ► 14 ► 5
+462,41,İzmir,3,Bayındır,96 ► 15 ► 6
+463,41,İzmir,4,Bayraklı,93 ► 12 ► 3
+464,41,İzmir,5,Bergama,55 ► 10 ► 1
+465,41,İzmir,6,Beydağ,51 ► 6
+466,41,İzmir,7,Bornova,104 ► 5
+467,41,İzmir,8,Buca,31 ► 4
+468,41,İzmir,9,Çeşme,55 ► 10 ► 1
+469,41,İzmir,10,Çiğli,50 ► 5
+470,41,İzmir,11,Dikili,67 ► 13 ► 4
+471,41,İzmir,12,Foça,30 ► 3
+472,41,İzmir,13,Gaziemir,103 ► 4
+473,41,İzmir,14,Güzelbahçe,107 ► 8
+474,41,İzmir,15,Karabağlar,86 ► 14 ► 5
+475,41,İzmir,16,Karaburun,127 ► 10 ► 1
+476,41,İzmir,17,Karşıyaka,114 ► 6
+477,41,İzmir,18,Kemalpaşa,97 ► 16 ► 7
+478,41,İzmir,19,Kınık,67 ► 13 ► 4
+479,41,İzmir,20,Kiraz,76 ► 13 ► 4
+480,41,İzmir,21,Konak,64 ► 10 ► 1
+481,41,İzmir,22,Menderes,99 ► 18 ► 9
+482,41,İzmir,23,Menemen,84 ► 12 ► 3
+483,41,İzmir,24,Narlıdere,103 ► 4
+484,41,İzmir,25,Ödemiş,80 ► 8
+485,41,İzmir,26,Seferihisar,138 ► 12 ► 3
+486,41,İzmir,27,Selçuk,86 ► 14 ► 5
+487,41,İzmir,28,Tire,62 ► 8
+488,41,İzmir,29,Torbalı,92 ► 11 ► 2
+489,41,İzmir,30,Urla,62 ► 8
+490,42,Kahramanmaraş,1,Afşin,59 ► 14 ► 5
+491,42,Kahramanmaraş,2,Andırın,83 ► 11 ► 2
+492,42,Kahramanmaraş,3,Çağlayancerit,141 ► 6
+493,42,Kahramanmaraş,4,Dulkadiroğlu,164 ► 11 ► 2
+494,42,Kahramanmaraş,5,Ekinözü,122 ► 5
+495,42,Kahramanmaraş,6,Elbistan,98 ► 17 ► 8
+496,42,Kahramanmaraş,7,Göksun,105 ► 6
+497,42,Kahramanmaraş,8,Nurhak,88 ► 16 ► 7
+498,42,Kahramanmaraş,9,Onikişubat,146 ► 11 ► 2
+499,42,Kahramanmaraş,10,Pazarcık,100 ► 1
+500,42,Kahramanmaraş,11,Türkoğlu,152 ► 8
+501,43,Karabük,1,Karabük,79 ► 16 ► 7
+502,43,Karabük,2,Eskipazar,125 ► 8
+503,43,Karabük,3,Ovacık,74 ► 11 ► 2
+504,43,Karabük,4,Safranbolu,129 ► 12 ► 3
+505,43,Karabük,5,Yenice,71 ► 8
+506,44,Karaman,1,Karaman,71 ► 8
+507,44,Karaman,2,Başyayla,99 ► 18 ► 9
+508,44,Karaman,3,Ermenek,86 ► 14 ► 5
+509,44,Karaman,4,Kazımkarabekir,162 ► 9
+510,44,Karaman,5,Sarıveliler,156 ► 12 ► 3
+511,45,Kars,1,Kars,58 ► 13 ► 4
+512,45,Kars,2,Arpaçay,76 ► 13 ► 4
+513,45,Kars,3,Digor,63 ► 9
+514,45,Kars,4,Kağızman,98 ► 17 ► 8
+515,45,Kars,5,Sarıkamış,120 ► 3
+516,45,Kars,6,Selim,70 ► 7
+517,45,Kars,7,Susuz,123 ► 6
+518,46,Kastamonu,1,Kastamonu,138 ► 12 ► 3
+519,46,Kastamonu,2,Ağlı,36 ► 9
+520,46,Kastamonu,3,Araç,27 ► 9
+521,46,Kastamonu,4,Azdavay,92 ► 11 ► 2
+522,46,Kastamonu,5,Bozkurt,133 ► 7
+523,46,Kastamonu,6,Cide,25 ► 7
+524,46,Kastamonu,7,Çatalzeytin,160 ► 7
+525,46,Kastamonu,8,Daday,40 ► 4
+526,46,Kastamonu,9,Devrekani,108 ► 9
+527,46,Kastamonu,10,Doğanyurt,148 ► 13 ► 4
+528,46,Kastamonu,11,Hanönü,90 ► 9
+529,46,Kastamonu,12,İhsangazi,111 ► 3
+530,46,Kastamonu,13,İnebolu,95 ► 14 ► 5
+531,46,Kastamonu,14,Küre,67 ► 13 ► 4
+532,46,Kastamonu,15,Pınarbaşı,107 ► 8
+533,46,Kastamonu,16,Seydiler,114 ► 6
+534,46,Kastamonu,17,Şenpazar,118 ► 10 ► 1
+535,46,Kastamonu,18,Taşköprü,148 ► 13 ► 4
+536,46,Kastamonu,19,Tosya,93 ► 12 ► 3
+537,47,Kayseri,1,Akkışla,79 ► 16 ► 7
+538,47,Kayseri,2,Bünyan,91 ► 10 ► 1
+539,47,Kayseri,3,Develi,70 ► 7
+540,47,Kayseri,4,Felahiye,84 ► 12 ► 3
+541,47,Kayseri,5,Hacılar,62 ► 8
+542,47,Kayseri,6,İncesu,85 ► 13 ► 4
+543,47,Kayseri,7,Kocasinan,104 ► 5
+544,47,Kayseri,8,Melikgazi,111 ► 3
+545,47,Kayseri,9,Özvatan,118 ► 10 ► 1
+546,47,Kayseri,10,Pınarbaşı,107 ► 8
+547,47,Kayseri,11,Sarıoğlan,115 ► 7
+548,47,Kayseri,12,Sarız,84 ► 12 ► 3
+549,47,Kayseri,13,Talas,63 ► 9
+550,47,Kayseri,14,Tomarza,110 ► 2
+551,47,Kayseri,15,Yahyalı,94 ► 13 ► 4
+552,47,Kayseri,16,Yeşilhisar,148 ► 13 ► 4
+553,48,Kırıkkale,1,Kırıkkale,107 ► 8
+554,48,Kırıkkale,2,Balışeyh,96 ► 15 ► 6
+555,48,Kırıkkale,3,Çelebi,44 ► 8
+556,48,Kırıkkale,4,Delice,46 ► 10 ► 1
+557,48,Kırıkkale,5,Karakeçili,98 ► 17 ► 8
+558,48,Kırıkkale,6,Keskin,84 ► 12 ► 3
+559,48,Kırıkkale,7,Sulakyurt,175 ► 13 ► 4
+560,48,Kırıkkale,8,Yahşihan,101 ► 2
+561,49,Kırklareli,1,Kırklareli,129 ► 12 ► 3
+562,49,Kırklareli,2,Demirköy,120 ► 3
+563,49,Kırklareli,3,Kofçaz,73 ► 10 ► 1
+564,49,Kırklareli,4,Lüleburgaz,148 ► 13 ► 4
+565,49,Kırklareli,5,Pehlivanköy,168 ► 15 ► 6
+566,49,Kırklareli,6,Pınarhisar,135 ► 9
+567,49,Kırklareli,7,Vize,73 ► 10 ► 1
+568,50,Kırşehir,1,Kırşehir,117 ► 9
+569,50,Kırşehir,2,Akpınar,85 ► 13 ► 4
+570,50,Kırşehir,3,Boztepe,105 ► 6
+571,50,Kırşehir,4,Çiçekdağı,65 ► 11 ► 2
+572,50,Kırşehir,5,Kaman,49 ► 13 ► 4
+573,50,Kırşehir,6,Mucur,90 ► 9
+574,51,Kilis,1,Kilis,73 ► 10 ► 1
+575,51,Kilis,2,Musabeyli,126 ► 9
+576,51,Kilis,3,Polateli,110 ► 2
+577,52,Kocaeli,1,Başiskele,100 ► 1
+578,52,Kocaeli,2,Çayırova,111 ► 3
+579,52,Kocaeli,3,Darıca,42 ► 6
+580,52,Kocaeli,4,Derince,69 ► 15 ► 6
+581,52,Kocaeli,5,Dilovası,110 ► 2
+582,52,Kocaeli,6,Gebze,51 ► 6
+583,52,Kocaeli,7,Gölcük,85 ► 13 ► 4
+584,52,Kocaeli,8,İzmit,92 ► 11 ► 2
+585,52,Kocaeli,9,Kandıra,70 ► 7
+586,52,Kocaeli,10,Karamürsel,143 ► 8
+587,52,Kocaeli,11,Kartepe,92 ► 11 ► 2
+588,52,Kocaeli,12,Körfez,96 ► 15 ► 6
+589,53,Konya,1,Ahırlı,69 ► 15 ► 6
+590,53,Konya,2,Akören,78 ► 15 ► 6
+591,53,Konya,3,Akşehir,86 ► 14 ► 5
+592,53,Konya,4,Altınekin,116 ► 8
+593,53,Konya,5,Beyşehir,107 ► 8
+594,53,Konya,6,Bozkır,95 ► 14 ► 5
+595,53,Konya,7,Cihanbeyli,104 ► 5
+596,53,Konya,8,Çeltik,74 ► 11 ► 2
+597,53,Konya,9,Çumra,67 ► 13 ► 4
+598,53,Konya,10,Derbent,81 ► 9
+599,53,Konya,11,Derebucak,83 ► 11 ► 2
+600,53,Konya,12,Doğanhisar,115 ► 7
+601,53,Konya,13,Emirgazi,103 ► 4
+602,53,Konya,14,Ereğli,68 ► 14 ► 5
+603,53,Konya,15,Güneysınır,167 ► 14 ► 5
+604,53,Konya,16,Hadim,43 ► 7
+605,53,Konya,17,Halkapınar,111 ► 3
+606,53,Konya,18,Hüyük,104 ► 5
+607,53,Konya,19,Ilgın,62 ► 8
+608,53,Konya,20,Kadınhanı,87 ► 15 ► 6
+609,53,Konya,21,Karapınar,107 ► 8
+610,53,Konya,22,Karatay,90 ► 9
+611,53,Konya,23,Kulu,79 ► 16 ► 7
+612,53,Konya,24,Meram,60 ► 6
+613,53,Konya,25,Sarayönü,135 ► 9
+614,53,Konya,26,Selçuklu,126 ► 9
+615,53,Konya,27,Seydişehir,143 ► 8
+616,53,Konya,28,Taşkent,109 ► 10 ► 1
+617,53,Konya,29,Tuzlukçu,161 ► 8
+618,53,Konya,30,Yalıhüyük,159 ► 15 ► 6
+619,53,Konya,31,Yunak,85 ► 13 ► 4
+620,54,Kütahya,1,Kütahya,104 ► 5
+621,54,Kütahya,2,Aslanapa,78 ► 15 ► 6
+622,54,Kütahya,3,Çavdarhisar,124 ► 7
+623,54,Kütahya,4,Domaniç,72 ► 9
+624,54,Kütahya,5,Dumlupınar,156 ► 12 ► 3
+625,54,Kütahya,6,Emet,52 ► 7
+626,54,Kütahya,7,Gediz,59 ► 14 ► 5
+627,54,Kütahya,8,Hisarcık,93 ► 12 ► 3
+628,54,Kütahya,9,Pazarlar,109 ► 10 ► 1
+629,54,Kütahya,10,Şaphane,78 ► 15 ► 6
+630,54,Kütahya,11,Simav,77 ► 14 ► 5
+631,54,Kütahya,12,Tavşanlı,119 ► 11 ► 2
+632,55,Malatya,1,Akçadağ,35 ► 8
+633,55,Malatya,2,Arapgir,83 ► 11 ► 2
+634,55,Malatya,3,Arguvan,100 ► 1
+635,55,Malatya,4,Battalgazi,116 ► 8
+636,55,Malatya,5,Darende,61 ► 7
+637,55,Malatya,6,Doğanşehir,121 ► 4
+638,55,Malatya,7,Doğanyol,111 ► 3
+639,55,Malatya,8,Hekimhan,85 ► 13 ► 4
+640,55,Malatya,9,Kale,36 ► 9
+641,55,Malatya,10,Kuluncak,114 ► 6
+642,55,Malatya,11,Pütürge,131 ► 5
+643,55,Malatya,12,Yazıhan,97 ► 16 ► 7
+644,55,Malatya,13,Yeşilyurt,181 ► 10 ► 1
+645,56,Manisa,1,Ahmetli,83 ► 11 ► 2
+646,56,Manisa,2,Akhisar,80 ► 8
+647,56,Manisa,3,Alaşehir,88 ► 16 ► 7
+648,56,Manisa,4,Demirci,73 ► 10 ► 1
+649,56,Manisa,5,Gölmarmara,119 ► 11 ► 2
+650,56,Manisa,6,Gördes,81 ► 9
+651,56,Manisa,7,Kırkağaç,75 ► 12 ► 3
+652,56,Manisa,8,Köprübaşı,137 ► 11 ► 2
+653,56,Manisa,9,Kula,55 ► 10 ► 1
+654,56,Manisa,10,Salihli,85 ► 13 ► 4
+655,56,Manisa,11,Sarıgöl,97 ► 16 ► 7
+656,56,Manisa,12,Saruhanlı,123 ► 6
+657,56,Manisa,13,Selendi,82 ► 10 ► 1
+658,56,Manisa,14,Soma,57 ► 12 ► 3
+659,56,Manisa,15,Şehzadeler,122 ► 5
+660,56,Manisa,16,Turgutlu,167 ► 14 ► 5
+661,56,Manisa,17,Yunusemre,166 ► 13 ► 4
+662,57,Mardin,1,Artuklu,125 ► 8
+663,57,Mardin,2,Dargeçit,80 ► 8
+664,57,Mardin,3,Derik,57 ► 12 ► 3
+665,57,Mardin,4,Kızıltepe,136 ► 10 ► 1
+666,57,Mardin,5,Mazıdağı,83 ► 11 ► 2
+667,57,Mardin,6,Midyat,85 ► 13 ► 4
+668,57,Mardin,7,Nusaybin,123 ► 6
+669,57,Mardin,8,Ömerli,88 ► 16 ► 7
+670,57,Mardin,9,Savur,96 ► 15 ► 6
+671,57,Mardin,10,Yeşilli,109 ► 10 ► 1
+672,58,Mersin,1,Akdeniz,83 ► 11 ► 2
+673,58,Mersin,2,Anamur,81 ► 9
+674,58,Mersin,3,Aydıncık,90 ► 9
+675,58,Mersin,4,Bozyazı,118 ► 10 ► 1
+676,58,Mersin,5,Çamlıyayla,120 ► 3
+677,58,Mersin,6,Erdemli,80 ► 8
+678,58,Mersin,7,Gülnar,88 ► 16 ► 7
+679,58,Mersin,8,Mezitli,112 ► 4
+680,58,Mersin,9,Mut,65 ► 11 ► 2
+681,58,Mersin,10,Silifke,86 ► 14 ► 5
+682,58,Mersin,11,Tarsus,115 ► 7
+683,58,Mersin,12,Toroslar,140 ► 5
+684,58,Mersin,13,Yenişehir,133 ► 7
+685,59,Muğla,1,Bodrum,87 ► 15 ► 6
+686,59,Muğla,2,Dalaman,56 ► 11 ► 2
+687,59,Muğla,3,Datça,35 ► 8
+688,59,Muğla,4,Fethiye,92 ► 11 ► 2
+689,59,Muğla,5,Kavaklıdere,121 ► 4
+690,59,Muğla,6,Köyceğiz,119 ► 11 ► 2
+691,59,Muğla,7,Marmaris,109 ► 10 ► 1
+692,59,Muğla,8,Menteşe,98 ► 17 ► 8
+693,59,Muğla,9,Milas,65 ► 11 ► 2
+694,59,Muğla,10,Ortaca,68 ► 14 ► 5
+695,59,Muğla,11,Seydikemer,135 ► 9
+696,59,Muğla,12,Ula,41 ► 5
+697,59,Muğla,13,Yatağan,81 ► 9
+698,60,Muş,1,Muş,64 ► 10 ► 1
+699,60,Muş,2,Hasköy,94 ► 13 ► 4
+700,60,Muş,3,Korkut,116 ► 8
+701,60,Muş,4,Malazgirt,126 ► 9
+702,60,Muş,5,Varto,91 ► 10 ► 1
+703,61,Nevşehir,1,Nevşehir,121 ► 4
+704,61,Nevşehir,2,Avanos,86 ► 14 ► 5
+705,61,Nevşehir,3,Derinkuyu,152 ► 8
+706,61,Nevşehir,4,Gülşehir,120 ► 3
+707,61,Nevşehir,5,Hacıbektaş,95 ► 14 ► 5
+708,61,Nevşehir,6,Kozaklı,102 ► 3
+709,61,Nevşehir,7,Ürgüp,101 ► 2
+710,62,Niğde,1,Niğde,48 ► 12 ► 3
+711,62,Niğde,2,Bor,41 ► 5
+712,62,Niğde,3,Çamardı,59 ► 14 ► 5
+713,62,Niğde,4,Çiftlik,86 ► 14 ► 5
+714,62,Niğde,5,Ulukışla,129 ► 12 ► 3
+715,63,Ordu,1,Akkuş,77 ► 14 ► 5
+716,63,Ordu,2,Altınordu,137 ► 11 ► 2
+717,63,Ordu,3,Aybastı,89 ► 17 ► 8
+718,63,Ordu,4,Çamaş,45 ► 9
+719,63,Ordu,5,Çatalpınar,115 ► 7
+720,63,Ordu,6,Çaybaşı,70 ► 7
+721,63,Ordu,7,Fatsa,55 ► 10 ► 1
+722,63,Ordu,8,Gölköy,103 ► 4
+723,63,Ordu,9,Gülyalı,104 ► 5
+724,63,Ordu,10,Gürgentepe,142 ► 7
+725,63,Ordu,11,İkizce,75 ► 12 ► 3
+726,63,Ordu,12,Kabadüz,78 ► 15 ► 6
+727,63,Ordu,13,Kabataş,66 ► 12 ► 3
+728,63,Ordu,14,Korgan,79 ► 16 ► 7
+729,63,Ordu,15,Kumru,101 ► 2
+730,63,Ordu,16,Mesudiye,119 ► 11 ► 2
+731,63,Ordu,17,Perşembe,100 ► 1
+732,63,Ordu,18,Ulubey,101 ► 2
+733,63,Ordu,19,Ünye,77 ► 14 ► 5
+734,64,Osmaniye,1,Osmaniye,119 ► 11 ► 2
+735,64,Osmaniye,2,Düziçi,86 ► 14 ► 5
+736,64,Osmaniye,3,Hasanbeyli,113 ► 5
+737,64,Osmaniye,4,Kadirli,78 ► 15 ► 6
+738,64,Osmaniye,5,Sumbas,88 ► 16 ► 7
+739,64,Osmaniye,6,Toprakkale,134 ► 8
+740,65,Rize,1,Rize,67 ► 13 ► 4
+741,65,Rize,2,Çamlıhemşin,130 ► 4
+742,65,Rize,3,Çayeli,65 ► 11 ► 2
+743,65,Rize,4,Derepazarı,121 ► 4
+744,65,Rize,5,Fındıklı,91 ► 10 ► 1
+745,65,Rize,6,Güneysu,132 ► 6
+746,65,Rize,7,Hemşin,83 ► 11 ► 2
+747,65,Rize,8,İkizdere,104 ► 5
+748,65,Rize,9,İyidere,89 ► 17 ► 8
+749,65,Rize,10,Kalkandere,100 ► 1
+750,65,Rize,11,Pazar,72 ► 9
+751,66,Sakarya,1,Adapazarı,90 ► 9
+752,66,Sakarya,2,Akyazı,84 ► 12 ► 3
+753,66,Sakarya,3,Arifiye,85 ► 13 ► 4
+754,66,Sakarya,4,Erenler,92 ► 11 ► 2
+755,66,Sakarya,5,Ferizli,100 ► 1
+756,66,Sakarya,6,Geyve,75 ► 12 ► 3
+757,66,Sakarya,7,Hendek,58 ► 13 ► 4
+758,66,Sakarya,8,Karapürçek,128 ► 11 ► 2
+759,66,Sakarya,9,Karasu,84 ► 12 ► 3
+760,66,Sakarya,10,Kaynarca,86 ► 14 ► 5
+761,66,Sakarya,11,Kocaali,63 ► 9
+762,66,Sakarya,12,Pamukova,122 ► 5
+763,66,Sakarya,13,Sapanca,65 ► 11 ► 2
+764,66,Sakarya,14,Serdivan,110 ► 2
+765,66,Sakarya,15,Söğütlü,141 ► 6
+766,66,Sakarya,16,Taraklı,87 ► 15 ► 6
+767,67,Samsun,1,19 Mayıs,19 (2 karakter yöntemlerde tanımsız)
+768,67,Samsun,2,Alaçam,38 ► 11 ► 2
+769,67,Samsun,3,Asarcık,73 ► 10 ► 1
+770,67,Samsun,4,Atakum,81 ► 9
+771,67,Samsun,5,Ayvacık,85 ► 13 ► 4
+772,67,Samsun,6,Bafra,32 ► 5
+773,67,Samsun,7,Canik,46 ► 10 ► 1
+774,67,Samsun,8,Çarşamba,69 ► 15 ► 6
+775,67,Samsun,9,Havza,68 ► 14 ► 5
+776,67,Samsun,10,İlkadım,74 ► 11 ► 2
+777,67,Samsun,11,Kavak,57 ► 12 ► 3
+778,67,Samsun,12,Ladik,46 ► 10 ► 1
+779,67,Samsun,13,Salıpazarı,132 ► 6
+780,67,Samsun,14,Tekkeköy,125 ► 8
+781,67,Samsun,15,Terme,73 ► 10 ► 1
+782,67,Samsun,16,Vezirköprü,194 ► 14 ► 5
+783,67,Samsun,17,Yakakent,105 ► 6
+784,68,Siirt,1,Siirt,89 ► 17 ► 8
+785,68,Siirt,2,Eruh,62 ► 8
+786,68,Siirt,3,Kurtalan,118 ► 10 ► 1
+787,68,Siirt,4,Pervari,107 ► 8
+788,68,Siirt,5,Şirvan,100 ► 1
+789,68,Siirt,6,Tillo,83 ► 11 ► 2
+790,69,Sinop,1,Sinop,88 ► 16 ► 7
+791,69,Sinop,2,Boyabat,76 ► 13 ► 4
+792,69,Sinop,3,Dikmen,69 ► 15 ► 6
+793,69,Sinop,4,Durağan,79 ► 16 ► 7
+794,69,Sinop,5,Erfelek,75 ► 12 ► 3
+795,69,Sinop,6,Gerze,70 ► 7
+796,69,Sinop,7,Saraydüzü,159 ► 15 ► 6
+797,69,Sinop,8,Türkeli,117 ► 9
+798,70,Sivas,1,Sivas,83 ► 11 ► 2
+799,70,Sivas,2,Altınyayla,141 ► 6
+800,70,Sivas,3,Divriği,95 ► 14 ► 5
+801,70,Sivas,4,Doğanşar,95 ► 14 ► 5
+802,70,Sivas,5,Gemerek,77 ► 14 ► 5
+803,70,Sivas,6,Gölova,88 ► 16 ► 7
+804,70,Sivas,7,Gürün,98 ► 17 ► 8
+805,70,Sivas,8,Hafik,43 ► 7
+806,70,Sivas,9,İmranlı,93 ► 12 ► 3
+807,70,Sivas,10,Kangal,56 ► 11 ► 2
+808,70,Sivas,11,Koyulhisar,165 ► 12 ► 3
+809,70,Sivas,12,Suşehri,118 ► 10 ► 1
+810,70,Sivas,13,Şarkışla,109 ► 10 ► 1
+811,70,Sivas,14,Ulaş,64 ► 10 ► 1
+812,70,Sivas,15,Yıldızeli,131 ► 5
+813,70,Sivas,16,Zara,52 ► 7
+814,71,Şanlıurfa,1,Akçakale,56 ► 11 ► 2
+815,71,Şanlıurfa,2,Birecik,68 ► 14 ► 5
+816,71,Şanlıurfa,3,Bozova,95 ► 14 ► 5
+817,71,Şanlıurfa,4,Ceylanpınar,140 ► 5
+818,71,Şanlıurfa,5,Eyyübiye,135 ► 9
+819,71,Şanlıurfa,6,Halfeti,74 ► 11 ► 2
+820,71,Şanlıurfa,7,Haliliye,97 ► 16 ► 7
+821,71,Şanlıurfa,8,Harran,71 ► 8
+822,71,Şanlıurfa,9,Hilvan,81 ► 9
+823,71,Şanlıurfa,10,Karaköprü,137 ► 11 ► 2
+824,71,Şanlıurfa,11,Siverek,107 ► 8
+825,71,Şanlıurfa,12,Suruç,97 ► 16 ► 7
+826,71,Şanlıurfa,13,Viranşehir,148 ► 13 ► 4
+827,72,Şırnak,1,Şırnak,87 ► 15 ► 6
+828,72,Şırnak,2,Cizre,70 ► 7
+829,72,Şırnak,3,Güçlükonak,143 ► 8
+830,72,Şırnak,4,İdil,43 ► 7
+831,72,Şırnak,5,Silopi,97 ► 16 ► 7
+832,72,Şırnak,6,Uludere,103 ► 4
+833,73,Tekirdağ,1,Çerkezköy,141 ► 6
+834,73,Tekirdağ,2,Çorlu,83 ► 11 ► 2
+835,73,Tekirdağ,3,Ergene,64 ► 10 ► 1
+836,73,Tekirdağ,4,Hayrabolu,121 ► 4
+837,73,Tekirdağ,5,Kapaklı,76 ► 13 ► 4
+838,73,Tekirdağ,6,Malkara,69 ► 15 ► 6
+839,73,Tekirdağ,7,Marmaraereğlisi,178 ► 16 ► 7
+840,73,Tekirdağ,8,Muratlı,113 ► 5
+841,73,Tekirdağ,9,Saray,73 ► 10 ► 1
+842,73,Tekirdağ,10,Süleymanpaşa,176 ► 14 ► 5
+843,73,Tekirdağ,11,Şarköy,106 ► 7
+844,74,Tokat,1,Tokat,81 ► 9
+845,74,Tokat,2,Artova,92 ► 11 ► 2
+846,74,Tokat,3,Başçiftlik,112 ► 4
+847,74,Tokat,4,Erbaa,31 ► 4
+848,74,Tokat,5,Niksar,86 ► 14 ► 5
+849,74,Tokat,6,Pazar,72 ► 9
+850,74,Tokat,7,Reşadiye,101 ► 2
+851,74,Tokat,8,Sulusaray,160 ► 7
+852,74,Tokat,9,Turhal,96 ► 15 ► 6
+853,74,Tokat,10,Yeşilyurt,181 ► 10 ► 1
+854,74,Tokat,11,Zile,61 ► 7
+855,75,Trabzon,1,Akçaabat,48 ► 12 ► 3
+856,75,Trabzon,2,Araklı,63 ► 9
+857,75,Trabzon,3,Arsin,72 ► 9
+858,75,Trabzon,4,Beşikdüzü,142 ► 7
+859,75,Trabzon,5,Çarşıbaşı,97 ► 16 ► 7
+860,75,Trabzon,6,Çaykara,70 ► 7
+861,75,Trabzon,7,Dernekpazarı,152 ► 8
+862,75,Trabzon,8,Düzköy,121 ► 4
+863,75,Trabzon,9,Hayrat,85 ► 13 ► 4
+864,75,Trabzon,10,Köprübaşı,137 ► 11 ► 2
+865,75,Trabzon,11,Maçka,36 ► 9
+866,75,Trabzon,12,Of,25 ► 7
+867,75,Trabzon,13,Ortahisar,129 ► 12 ► 3
+868,75,Trabzon,14,Sürmene,114 ► 6
+869,75,Trabzon,15,Şalpazarı,122 ► 5
+870,75,Trabzon,16,Tonya,88 ► 16 ► 7
+871,75,Trabzon,17,Vakfıkebir,114 ► 6
+872,75,Trabzon,18,Yomra,84 ► 12 ► 3
+873,76,Tunceli,1,Tunceli,101 ► 2
+874,76,Tunceli,2,Hozat,82 ► 10 ► 1
+875,76,Tunceli,3,Mazgirt,110 ► 2
+876,76,Tunceli,4,Nazımiye,119 ► 11 ► 2
+877,76,Tunceli,5,Ovacık,74 ► 11 ► 2
+878,76,Tunceli,6,Pertek,91 ► 10 ► 1
+879,76,Tunceli,7,Pülümür,150 ► 6
+880,77,Uşak,1,Uşak,63 ► 9
+881,77,Uşak,2,Eşme,51 ► 6
+882,77,Uşak,3,Karahallı,89 ► 17 ► 8
+883,77,Uşak,4,Sivaslı,109 ► 10 ► 1
+884,77,Uşak,5,Ulubey,101 ► 2
+885,78,Van,1,Bahçesaray,96 ► 15 ► 6
+886,78,Van,2,Başkale,62 ► 8
+887,78,Van,3,Çaldıran,75 ► 12 ► 3
+888,78,Van,4,Çatak,44 ► 8
+889,78,Van,5,Edremit,89 ► 17 ► 8
+890,78,Van,6,Erciş,64 ► 10 ► 1
+891,78,Van,7,Gevaş,65 ► 11 ► 2
+892,78,Van,8,Gürpınar,125 ► 8
+893,78,Van,9,İpekyolu,138 ► 12 ► 3
+894,78,Van,10,Muradiye,113 ► 5
+895,78,Van,11,Özalp,84 ► 12 ► 3
+896,78,Van,12,Saray,73 ► 10 ► 1
+897,78,Van,13,Tuşba,75 ► 12 ► 3
+898,79,Yalova,1,Yalova,90 ► 9
+899,79,Yalova,2,Armutlu,127 ► 10 ► 1
+900,79,Yalova,3,Çınarcık,82 ► 10 ► 1
+901,79,Yalova,4,Çiftlikköy,147 ► 12 ► 3
+902,79,Yalova,5,Termal,83 ► 11 ► 2
+903,80,Yozgat,1,Yozgat,108 ► 9
+904,80,Yozgat,2,Aydıncık,90 ► 9
+905,80,Yozgat,3,Boğazlıyan,131 ► 5
+906,80,Yozgat,4,Çandır,59 ► 14 ► 5
+907,80,Yozgat,5,Çayıralan,99 ► 18 ► 9
+908,80,Yozgat,6,Çekerek,71 ► 8
+909,80,Yozgat,7,Kadışehri,102 ► 3
+910,80,Yozgat,8,Saraykent,134 ► 8
+911,80,Yozgat,9,Sarıkaya,99 ► 18 ► 9
+912,80,Yozgat,10,Sorgun,111 ► 3
+913,80,Yozgat,11,Şefaatli,88 ► 16 ► 7
+914,80,Yozgat,12,Yenifakılı,121 ► 4
+915,80,Yozgat,13,Yerköy,116 ► 8
+916,81,Zonguldak,1,Zonguldak,132 ► 6
+917,81,Zonguldak,2,Çaycuma,78 ► 15 ► 6
+918,81,Zonguldak,3,Devrek,79 ► 16 ► 7
+919,81,Zonguldak,4,Gökçebey,87 ► 15 ► 6
+920,81,Zonguldak,5,Karadeniz Ereğli,173 ► 11 ► 2
+921,81,Zonguldak,6,Kilimli,93 ► 12 ► 3
+922,81,Zonguldak,7,Kozlu,101 ► 2
