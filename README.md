@@ -1,0 +1,1 @@
+# -l-e-simleri-Numerolojik-Kay-tlar-
