@@ -40,8 +40,8 @@ while cities == 1:
 				if son == chk:
 					towns = 0
 				page = page[son:]
-				recordline = str(totaloftowns) + ',' + str(numberofcities) + ',' + str(nameofacity) + ',' + str(townsofcity) + ',' + str(nameofatown) + '\n'
-				linetoview = 'Allah yıkıcı bir zelzele ile yıkmak istediğinde hangi adayı başkanı seçmiş olmanızın sonucu etkileyemeyeceği ' + str(nameofacity) + " ilinin " + str(townsofcity) + ' isimli ilçesi listeye eklenen ' + str(totaloftowns) + '. ilçe oldu. '
+				recordline = str(totaloftowns) + ',' + str(numberofcities) + ',' + nameofacity + ',' + str(townsofcity) + ',' + nameofatown + '\n'
+				linetoview = 'Allah yıkıcı bir zelzele ile yıkmak istediğinde hangi adayı başkanı seçmiş olmanızın sonucu etkileyemeyeceği ' + nameofacity + " ilinin " + nameofatown + ' isimli ilçesi listeye eklenen ' + str(totaloftowns) + '. ilçe oldu. '
 				if nameofacity != 'İsimlerine göre ilçeler ve nüfusları':
 					dosya.write(recordline)
 					print(linetoview, sep='',end ='', file = sys.stdout , flush = False)
