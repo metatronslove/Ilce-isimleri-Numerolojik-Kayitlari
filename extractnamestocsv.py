@@ -43,13 +43,13 @@ while cities == 1:
 					towns = 0
 				page = page[lnk:]
 				if nameofacity != 'İsimlerine göre ilçeler ve nüfusları':
-					total = '000' + str(totaloftowns)
+					total = '0'*len(str(expectedentry)) + str(totaloftowns)
 					recordline = str(totaloftowns) + ',' + str(numberofcities) + ',' + nameofacity + ',' + str(townsofcity) + ',' + nameofatown + '\n'
-					linetoview = '\033[92m' + total[-3:] + ' ► %' + str(percentage)[:5] + ' tamamlandı ► \033[0m' + nameofacity + " ilinin " + nameofatown + ' ilçesi eklendi. '
-					dosya.write(recordline)
+					linetoview = '\033[92m' + total[-1*len(str(expectedentry)):] + ' ► %' + str(percentage)[:5] + ' tamamlandı ► \033[0m' + nameofacity + " ilinin " + nameofatown + ' ilçesi eklendi. '
+					dosya.write(recordline)				
 					print(linetoview, sep='',end =' '*19+'\b'*len(linetoview)+'\b'*19, file = sys.stdout , flush = True)
 				else:
 					cities = 0
+dosya.close()
 end = time.time()
 print(linetoview, sep='',end ='\b\b \033[92m►\033[0m \033[1m\'ilçeisimleri2024.csv\'\033[0m dosyasına kaydedildi \033[92m►\033[0m ' + str(end - start)[:5] + ' saniyede sonlandı\n\r\n\r', file = sys.stdout , flush = True)
-dosya.close()
