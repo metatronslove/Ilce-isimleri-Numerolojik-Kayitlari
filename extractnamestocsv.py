@@ -7,12 +7,10 @@ dosya=codecs.open('ilçeisimleri2024.csv', 'w', 'UTF-8')
 dosya.write('Kayıt, Şehir No, Şehir, İlçe No, İlçe\n')
 site = 'https://tr.wikipedia.org/wiki/T%C3%BCrkiye%27nin_il%C3%A7eleri'
 temp = urllib.request.urlopen(site)
-print(site + ' adresinden isimler yolunuyor :')
+print('\n\r\033[1m' + site + '\033[0m adresinden isimler yolunuyor :')
 page = temp.read().decode('UTF-8')
 cities = 1
-numberofcities = 0
-townsofcity = 0
-totaloftowns = 0
+numberofcities = totaloftowns = 0
 while cities == 1:
 	cityname = page.find('<span class="mw-headline"')
 	if cityname != -1:
@@ -35,17 +33,18 @@ while cities == 1:
 				chk=page.find('</a></li></ul>', bas)
 				if lnk == ctr:
 					nameofatown=page[bas+2:lnk]
-				else:	
+				else:
 					nameofatown=page[bas+2:son]
 				if son == chk:
 					towns = 0
 				page = page[lnk:]
 				if nameofacity != 'İsimlerine göre ilçeler ve nüfusları':
+					total = '000' + str(totaloftowns)
 					recordline = str(totaloftowns) + ',' + str(numberofcities) + ',' + nameofacity + ',' + str(townsofcity) + ',' + nameofatown + '\n'
-					linetoview = str(totaloftowns) + ' ' + nameofacity + " ilinin " + nameofatown + ' ilçesi eklendi. '
+					linetoview = '\033[92m' + total[-3:] + '\033[0m ' + nameofacity + " ilinin " + nameofatown + ' ilçesi eklendi. '
 					dosya.write(recordline)
 					print(linetoview, sep='',end =' '*19+'\b'*len(linetoview)+'\b'*19, file = sys.stdout , flush = True)
 				else:
 					cities = 0
-print(linetoview, sep='',end ='\b\b ► \'ilçeisimleri2024.csv\' dosyasına kaydedildi\n\r', file = sys.stdout , flush = True)
+print(linetoview, sep='',end ='\b\b ► \033[1m\'ilçeisimleri2024.csv\'\033[0m dosyasına kaydedildi\n\r\n\r', file = sys.stdout , flush = True)
 dosya.close()
