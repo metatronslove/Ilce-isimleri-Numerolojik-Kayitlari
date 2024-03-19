@@ -45,7 +45,7 @@ while cities == 1:
 				if nameofacity != 'İsimlerine göre ilçeler ve nüfusları':
 					total = '000' + str(totaloftowns)
 					recordline = str(totaloftowns) + ',' + str(numberofcities) + ',' + nameofacity + ',' + str(townsofcity) + ',' + nameofatown + '\n'
-					linetoview = '\033[92m' + total[-3:] + ' ► %' + str(percentage)[:5] + ' tamamlandı ► \033[0m ' + nameofacity + " ilinin " + nameofatown + ' ilçesi eklendi. '
+					linetoview = '\033[92m' + total[-3:] + ' ► %' + str(percentage)[:5] + ' tamamlandı ► \033[0m' + nameofacity + " ilinin " + nameofatown + ' ilçesi eklendi. '
 					dosya.write(recordline)
 					print(linetoview, sep='',end =' '*19+'\b'*len(linetoview)+'\b'*19, file = sys.stdout , flush = True)
 				else:
