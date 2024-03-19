@@ -40,11 +40,12 @@ while cities == 1:
 				if son == chk:
 					towns = 0
 				page = page[son:]
-				recordline = str(totaloftowns) + ',' + str(numberofcities) + ',' + nameofacity + ',' + str(townsofcity) + ',' + nameofatown + '\n'
-				linetoview = 'Allah yıkıcı bir zelzele ile yıkmak istediğinde hangi adayı başkanı seçmiş olmanızın sonucu etkileyemeyeceği ' + nameofacity + " ilinin " + nameofatown + ' isimli ilçesi listeye eklenen ' + str(totaloftowns) + '. ilçe oldu. '
 				if nameofacity != 'İsimlerine göre ilçeler ve nüfusları':
+					recordline = str(totaloftowns) + ',' + str(numberofcities) + ',' + nameofacity + ',' + str(townsofcity) + ',' + nameofatown + '\n'
+					linetoview = '' + nameofacity + " ilinin " + nameofatown + ' isimli ilçesi listeye eklenen ' + str(totaloftowns) + '. ilçe oldu. '
 					dosya.write(recordline)
-					print(linetoview, sep='',end ='', file = sys.stdout , flush = False)
+					print(linetoview, sep='',end =' '*19+'\b'*len(linetoview)+'\b'*19, file = sys.stdout , flush = True)
 				else:
 					cities = 0
+print(linetoview, sep='',end ='\b\b ► \'ilçeisimleri2024.csv\' dosyasına kaydedildi\n\r', file = sys.stdout , flush = True)
 dosya.close()
