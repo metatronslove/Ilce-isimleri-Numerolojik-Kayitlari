@@ -10,6 +10,7 @@ temp = urllib.request.urlopen(site)
 print('\n\r\033[1m' + site + '\033[0m adresinden isimler yolunuyor :')
 page = temp.read().decode('UTF-8')
 cities = 1
+expectedentry = 973
 numberofcities = totaloftowns = 0
 while cities == 1:
 	cityname = page.find('<span class="mw-headline"')
@@ -24,6 +25,7 @@ while cities == 1:
 		while towns == 1:
 			townsofcity += 1
 			totaloftowns += 1
+			percentage = 100*totaloftowns/expectedentry
 			townname = page.find('<li><a href')
 			if townname != -1:
 				bas=page.find('">', townname)
@@ -41,10 +43,10 @@ while cities == 1:
 				if nameofacity != 'İsimlerine göre ilçeler ve nüfusları':
 					total = '000' + str(totaloftowns)
 					recordline = str(totaloftowns) + ',' + str(numberofcities) + ',' + nameofacity + ',' + str(townsofcity) + ',' + nameofatown + '\n'
-					linetoview = '\033[92m' + total[-3:] + '\033[0m ' + nameofacity + " ilinin " + nameofatown + ' ilçesi eklendi. '
+					linetoview = '\033[92m' + total[-3:] + ' ► %' + str(percentage)[:5] + ' tamamlandı ► \033[0m ' + nameofacity + " ilinin " + nameofatown + ' ilçesi eklendi. '
 					dosya.write(recordline)
 					print(linetoview, sep='',end =' '*19+'\b'*len(linetoview)+'\b'*19, file = sys.stdout , flush = True)
 				else:
 					cities = 0
-print(linetoview, sep='',end ='\b\b ► \033[1m\'ilçeisimleri2024.csv\'\033[0m dosyasına kaydedildi\n\r\n\r', file = sys.stdout , flush = True)
+print(linetoview, sep='',end ='\b\b \033[92m►\033[0m \033[1m\'ilçeisimleri2024.csv\'\033[0m dosyasına kaydedildi\n\r\n\r', file = sys.stdout , flush = True)
 dosya.close()
