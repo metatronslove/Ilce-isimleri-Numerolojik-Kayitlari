@@ -7,3 +7,5 @@ Türk Alfabe Sıra No numerolojisi değerlerini [Sahur Özel'in Ebced Hesaplayan
 
 ```ilçeisimleri2024.csv``` listesini üretmek için python kodunu çalıştırabilirsin:
 ### python3 extractnamestocsv.py
+
+[![Web Sitesinden Python İle Çekilen İsimlerin Makro İle Ebced Değerlerini Kurcalamak](http://img.youtube.com/vi/QJaa-dgHKks/hqdefault.jpg)](https://youtu.be/QJaa-dgHKks "Web Sitesinden Python İle Çekilen İsimlerin Makro İle Ebced Değerlerini Kurcalamak")
