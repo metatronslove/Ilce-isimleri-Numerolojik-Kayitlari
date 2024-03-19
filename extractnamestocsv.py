@@ -1,6 +1,8 @@
 import urllib.request
 import codecs
 import sys
+import time
+start = time.time()
 sys.stdin.reconfigure(encoding='UTF-8')
 sys.stdout.reconfigure(encoding='UTF-8')
 dosya=codecs.open('ilçeisimleri2024.csv', 'w', 'UTF-8')
@@ -48,5 +50,6 @@ while cities == 1:
 					print(linetoview, sep='',end =' '*19+'\b'*len(linetoview)+'\b'*19, file = sys.stdout , flush = True)
 				else:
 					cities = 0
-print(linetoview, sep='',end ='\b\b \033[92m►\033[0m \033[1m\'ilçeisimleri2024.csv\'\033[0m dosyasına kaydedildi\n\r\n\r', file = sys.stdout , flush = True)
+end = time.time()
+print(linetoview, sep='',end ='\b\b \033[92m►\033[0m \033[1m\'ilçeisimleri2024.csv\'\033[0m dosyasına kaydedildi \033[92m►\033[0m ' + str(end - start)[:5] + ' saniyede sonlandı\n\r\n\r', file = sys.stdout , flush = True)
 dosya.close()
